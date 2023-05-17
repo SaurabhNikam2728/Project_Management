@@ -1,0 +1,28 @@
+Buisness Entities:
+
+Project Manager: 
+	A user who creates and manages projects,
+	assigns tasks, and tracks progress.
+
+Team Member: A user who is assigned tasks and updates progress.
+
+Agile team : To esure about the project and fixede the issues also for the 
+		task managing making meetings and so on.
+
+Admin :	Working as head of department to retrieving data of project from managers 
+	and assigning a projects.
+
+Administrator : They are for resolving problem for the web application to maintain it and update as possible 
+	aslos adding a new features to increase the avaialabilty.
+
+
+Buisness Oprations :
+	Login Manager.
+	Login Empoloyee.
+	Show details of projects.
+	Show assigned tasks.
+	show Completed tasks.
+	Show comments,issues raise by the employees and also the resoved issues.
+	Alwasy in update show notification earlirly.
+	Availability of application for meetings as communication tool.
+	Also availabilty of application tools.

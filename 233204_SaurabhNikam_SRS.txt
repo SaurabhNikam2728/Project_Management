@@ -1,0 +1,94 @@
+Project Name : Online Project Management System
+Team:
+	Employees,
+	Managers,
+        Admin,
+	Stakeholders,
+	Agile Team,
+	System Analyst
+
+Objective :
+	Online Project management  Web Applictaion is used to  provide solution
+	for working on mulriple projects and whole team will communicate with each others as using web app.
+	All there actions on project will show clearly on GUI.
+
+Scope:
+	This System allows companies to extracting the communication between team without physical contact.
+	Saved all information about the team and team members and so on.
+	The System  will be able to show Operation statistics trends through Customized dashboard
+	for stakeholders.
+
+Functional Requirements :
+	1.Profile module enables employees to create profiles that will saved with authentication in managers selection. 
+	2.Employes need to fill all the data or info with proof,
+	3.Employee can see the project with there qualification match and expreince.
+	4.Managers can respond to employees requests according to their available slots.
+	5.After selection of project manager will assign a confirmation to the employee with project description.
+	6.Employee will able to there project ,  project manager and description.
+	7.Also the status , project duration, description.
+	8.Manager assigning a tasks if employee will have isse he raise a comment using comment box.
+	9.Employee handle one or more than one tasks at a time.
+	10.System enables employee to cvommunicate with the teaam members via meetings with adding addplication.
+	also communicate with multiple teammates.
+	11.Employee will see there progress that means tracking there progress.
+	12.Employee can receive the meeting schedule at the same time it was generated.
+	13.These features can help Employees to attend meetings right on time. 
+	14.Employees get Notifications and updates at a right time.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chat
+This feature enables the communication between students. Students can communicate with their group members. They can do a discussion about projects by using this module.
+
+Software Requirements Specification (SRS) documents are essential for defining the scope and functionality of software projects. Here is an example of an SRS document for an online
+ project management system:
+
+Introduction
+The online project management system is a web-based application designed to help project managers and teams manage projects more efficiently. The system will provide features for 
+creating and managing projects, assigning tasks to team members, tracking progress, and generating reports.
+
+User Requirements
+The system will have the following user types:
+
+Project Manager: A user who creates and manages projects, assigns tasks, and tracks progress.
+Team Member: A user who is assigned tasks and updates progress.
+2.1 Functional Requirements
+The system will have the following features:
+
+Project creation: A project manager can create a new project and set its name, description, start date, and end date.
+Task assignment: A project manager can assign tasks to team members and set their deadlines.
+Task tracking: Team members can update the progress of their assigned tasks, and project managers can view the progress of all tasks.
+Communication: The system will provide a messaging system for project managers and team members to communicate about the project.
+Reporting: The system will generate reports that show project progress, task completion, and other relevant metrics.
